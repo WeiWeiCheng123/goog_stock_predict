@@ -13,4 +13,4 @@ Test set: 2021 stock price.
 
 ![compare](https://github.com/WeiWeiCheng123/goog_stock_predict/blob/main/compare.jpg)
 
-This is the result and MSE is 3948.6814460495284
+This is the result and MSE is 3479.9245251680736
